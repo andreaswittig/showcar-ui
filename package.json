@@ -11,6 +11,7 @@
     "url": "git+https://github.com/AutoScout24/showcar-ui.git"
   },
   "scripts": {
+    "preinstall": "echo \">>>> DEPRECATED, please, check the readme file <<<<\"",
     "grunt": "grunt",
     "bower": "bower"
   },
